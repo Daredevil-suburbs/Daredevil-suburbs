@@ -28,8 +28,8 @@ Here are some of the technologies and tools I frequently work with:
 
 You can reach out to me through the following platforms:
 
-- Twitter: [@your-twitter-handle]((https://twitter.com/soya_hua_armaan))
-- LinkedIn: [Your LinkedIn profile]((https://www.linkedin.com/in/armaan-sheikh/))
+- Twitter: ((https://twitter.com/soya_hua_armaan))
+- LinkedIn: ((https://www.linkedin.com/in/armaan-sheikh/))
 
 Feel free to connect with me! I'm always open to interesting conversations and collaborations.
 

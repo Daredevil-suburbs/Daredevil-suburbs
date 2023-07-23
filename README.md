@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engieering Stude
 
 ## 🌱 What I'm currently working on
 
-I'm currently focused on  learning programming in Jawa and Cloud Computing . I'm excited to collaborate on interesting projects and contribute to the open-source community.
+I'm currently focused on  learning programming in Java and Cloud Computing . I'm excited to collaborate on interesting projects and contribute to the open-source community.
 
 ## 💻 Technologies and Tools
 

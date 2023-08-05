@@ -1,7 +1,7 @@
 # Hello, I'm Armaan !
 
 [![GitHub followers](https://img.shields.io/github/followers/Daredevil-suburbs?style=social)](https://github.com/Daredevil-suburbs)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/soya_hua_armaan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@soya_hua_armaan?style=social)](https://twitter.com/soya_hua_armaan)
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Engieering Student with a love for technology. I enjoy working on Cloud Computing and I'm constantly learning and exploring new things.
 

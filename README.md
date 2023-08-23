@@ -17,11 +17,11 @@ Here are some of the technologies and tools I frequently work with:
 - Frameworks and libraries: 
 - Databases: 
 - Tools and platforms:
-  Visual Studio Code
-  Git
-  Docker
-  PyTest
-  Microsoft Azure
+  Visual Studio Code,
+  Git,
+  Docker,
+  PyTest,
+  Microsoft Azure,
   pip 
 
 ## 📫 How to reach me

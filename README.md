@@ -4,12 +4,6 @@
   <em>Computer Science Engineering Student · Cloud & Full-Stack Enthusiast · Open Source Learner</em>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/soya_hua_armaan"><img src="https://img.shields.io/twitter/follow/soya_hua_armaan?style=for-the-badge&logo=twitter&color=1DA1F2&labelColor=000000" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/armaan-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
-  <a href="https://github.com/Daredevil-suburbs"><img src="https://img.shields.io/github/followers/Daredevil-suburbs?style=for-the-badge&logo=github&color=white&labelColor=000000" alt="GitHub Followers"/></a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me

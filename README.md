@@ -24,7 +24,6 @@
 | [chat-app](https://github.com/Daredevil-suburbs/chat-app) | Real-time chat application | JavaScript |
 | [blog-platform](https://github.com/Daredevil-suburbs/blog-platform) | A platform to write and share blogs | HTML |
 | [Where-s-my-money](https://github.com/Daredevil-suburbs/Where-s-my-money) | Personal finance tracker | TypeScript |
-| [hunter-system](https://github.com/Daredevil-suburbs/hunter-system) | - | JavaScript |
 | [sql-statistical-analysis-project](https://github.com/Daredevil-suburbs/sql-statistical-analysis-project) | Statistical analysis using SQL & Python | Python |
 
 ---
